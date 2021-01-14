@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport '../styles/_carts.scss';\nexport default function Carts({}) {\n  return __jsx(\"div\", {\n    className: \"container\"\n  }, __jsx(\"h1\", null, \"i am from cart components page\"));\n}","map":null,"metadata":{},"sourceType":"module"}

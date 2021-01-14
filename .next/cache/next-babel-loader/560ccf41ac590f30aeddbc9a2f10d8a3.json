@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport '../styles/_signin.scss';\nexport default function Signin({}) {\n  return __jsx(\"div\", {\n    className: \"container\"\n  }, __jsx(\"h1\", null, \"I am from Signin Page Component\"));\n}","map":null,"metadata":{},"sourceType":"module"}

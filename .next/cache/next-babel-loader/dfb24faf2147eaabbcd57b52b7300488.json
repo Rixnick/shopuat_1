@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport '../../styles/_sidebar.scss';\nexport default function Sidebar({}) {\n  return __jsx(\"div\", {\n    className: \"side-content col-md-3\"\n  }, __jsx(\"h1\", null, \"Sidebar\"));\n}","map":null,"metadata":{},"sourceType":"module"}
